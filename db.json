@@ -1,0 +1,19 @@
+{
+  "register": [
+    {
+      "Name": "Vijit singh",
+      "Age": "21",
+      "Email": "viratsinghfzd75@gmail.com",
+      "password": "7905597148",
+      "id": 1
+    },
+    {
+      "Name": "subham singh",
+      "Age": "26",
+      "Email": "subhamsingh@gmail.com",
+      "password": "12345",
+      "id": 3
+    }
+  
+  ]
+}

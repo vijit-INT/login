@@ -1,0 +1,50 @@
+.nav {
+    width:99.5%;
+    height:40px;
+    border: 1px solid rgb(255, 137, 3);
+    margin-top: -20px;
+   
+}
+
+.comp1{
+    text-decoration: none;
+    color: aliceblue;
+    float:left;
+    margin-left: 20px;
+}
+.comp2{
+    text-decoration: none;
+    color: aliceblue;
+    
+}
+.comp3{
+    text-decoration: none;
+    color: aliceblue;
+    float:right;
+    margin-right: 20px;
+}
+#h1{
+    color:rgb(10, 141, 255);
+    font-size: 18px;
+    
+}
+
+#userH1{
+    /* text-decoration: dotted; */
+    color:aqua
+}
+
+#h1headin{
+    color: rgb(255, 178, 11);
+}
+
+.Users{
+   
+        width:90%;
+        height:450px;
+        margin-left: 5%;
+        overflow-y: scroll;
+        background-color: rgb(31, 31, 64);
+       
+    
+}
