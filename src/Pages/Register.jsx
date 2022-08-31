@@ -10,7 +10,7 @@ const Register = () => {
   
     const register = () =>{
         
-            fetch('http://localhost:3000/register',{
+            fetch('https://login-vijit.herokuapp.com/Register',{
                 method:"POST",
                 headers:{
                     'Content-Type':"application/json"

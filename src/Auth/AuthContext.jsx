@@ -7,7 +7,7 @@ const AuthContextProvider = ({children}) => {
   const [data, setData] = useState([]);
   const [count, setCount] = useState();
   useEffect(()=>{
-    fetch(` http://localhost:3000/register`)
+    fetch(`https://login-vijit.herokuapp.com/Register`)
     .then((res)=>res.json())
     .then((data)=>setData(data))
   },[count]);
